@@ -1,0 +1,14 @@
+# Ignore for .config
+
+
+# Ignore for dotfiles
+.bash_history
+.bash_logout
+.cache
+.local
+.oh-my-zsh
+.shell.pre-oh-my-zsh
+.ssh
+.zcompdump-DESKTOP-JUNCCU6-5.9
+.zcompdump-DESKTOP-JUNCCU6-5.9.zwc
+.zsh_history
