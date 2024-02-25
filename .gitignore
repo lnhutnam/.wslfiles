@@ -5,6 +5,8 @@
 .bash_history
 .bash_logout
 .cache
+.julia
+.jupyter
 .local
 .oh-my-zsh
 .shell.pre-oh-my-zsh
@@ -12,3 +14,6 @@
 .zcompdump-DESKTOP-JUNCCU6-5.9
 .zcompdump-DESKTOP-JUNCCU6-5.9.zwc
 .zsh_history
+
+# Ignore
+opts

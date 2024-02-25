@@ -117,3 +117,10 @@ alias sprs='sudo pacman -Rs'
 alias sprdd='sudo pacman -Rdd'
 alias spqo='sudo pacman -Qo'
 alias spsii='sudo pacman -Sii'
+
+#Add the following line after the case statement
+alias jupyter-notebook="~/.local/bin/jupyter-notebook --no-browser"
+
+# software
+## julia
+export PATH="$HOME/opts/julia-1.6.7/bin:$HOME/.local/bin:$PATH"
